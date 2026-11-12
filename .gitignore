@@ -1,0 +1,23 @@
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Configuration locale et secrets
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Données et artefacts ML
+data/
+artifacts/
+
+# Logs
+logs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
