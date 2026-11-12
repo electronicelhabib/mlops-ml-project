@@ -1,4 +1,3 @@
-
 # Mini-projet ML & Git
 
 ## 1. Présentation du projet
